@@ -1,0 +1,6 @@
+*
+!.gitignore
+!KHALF.h
+!Makefile
+!main.cpp
+!README.md
